@@ -1,0 +1,57 @@
+KDE PLASMA CUSTOMIZATION GUIDE
+BY CLONE
+
+MOUSE & TOUCHPAD
+Touchpad
+    Turn on:
+        Natural Scroll
+
+WINDOW MANAGEMENT
+Window Behaviour
+    Advanced
+        Window placement -- Centered
+Task Switcher
+    Main
+Desktop Effect
+    Turn on:
+        Background Contrast
+        Dim Inactive
+Kwin Scripts
+    Download
+        Force Decoration
+        Truly Maximized
+
+GENERAL BEHAVIOUR
+    Click to select
+    Double click to open
+
+DOWNLOAD
+    Wallpaper
+    Theme
+    Icon pack
+    Cursor theme
+    Kvantum
+
+DOWNLOAD IRIXIUM GTK THEME on GLOBAL THEME
+INSTALL KVANTUM
+KVANTUM
+    Irixium
+COLOUR
+    Irixium
+    Color Accent -- #e7e7e7
+PLASMA STYLE
+    Irixium
+WINDOW DECORATION
+    Irixium
+ICON THEME
+    Haiku
+CURSOR THEME
+    Haiku
+SPLASH SCREEN THEME
+    Irixium
+SDDM THEME
+    Irixium
+SCREEN LOCKING
+    Appearance
+        Plain Color -- #263838
+CHANGE INDIVIDUAL APPS COLOR SCHEME to #9ebfbf (blue) or #999999 (grey)
